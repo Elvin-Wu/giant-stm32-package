@@ -87,7 +87,7 @@ Only a small amount of flex is needed. Do not force the enclosure apart.
 
 Two Gerber sets are included.
 
-### `fabricated-no-center-pad.zip`
+**Fabricated version — no center pad**
 
 This is the version that was actually manufactured and assembled.
 
@@ -99,7 +99,7 @@ I chose this version because I was concerned that such a large exposed copper ar
 
 This does **not** mean that the center-pad version is inherently unmanufacturable.
 
-### `untested-center-pad.zip`
+**Untested version — center pad**
 
 This alternative version includes a large copper center pad to make the bottom side look more like a real QFN package.
 
