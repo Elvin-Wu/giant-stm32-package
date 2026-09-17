@@ -19,7 +19,7 @@ The exposed ENIG traces on the PCB are designed to visually resemble the lead-fr
 
 ## Scale
 
-The finished package is approximately **78 × 78 mm**.
+The PCB measures **78 × 78 mm**, while the completed enclosure measures approximately **80.5 × 80.5 × 12.7 mm**.
 
 For comparison, the photo below shows the giant package next to a normal LQFP48 STM32F103C8T6.
 
