@@ -1,0 +1,8 @@
+﻿Category,Item,Model / Specification,Quantity,Notes
+Electronics,Microcontroller,STM32F103C8T6 (LQFP48),1,Main MCU
+Hardware,PCB,78 × 78 mm; 2-layer FR-4; 1.6 mm; 1 oz copper; ENIG,1,Fabrication files included in hardware/gerber
+Mechanical,Magnet,Round neodymium magnet; Ø4 mm × 2 mm; N52,8,Press-fit into undersized holes; gently tap into place
+Mechanical,Screw,M3 × 4 mm; low-profile Phillips head; head Ø5 mm; 304 stainless steel,4,Secures the PCB to the internal frame
+Mechanical,Heat-set insert,Brass; M3 internal thread; 3 mm height; Ø4.2 mm outer diameter,4,Install into the 3D-printed frame with a heated soldering iron
+Mechanical,Top cover,3D-printed PETG; black,1,Outer enclosure; black chosen to resemble a molded IC package
+Mechanical,PCB frame,3D-printed PETG; black,1,Internal support frame for the PCB and heat-set inserts
